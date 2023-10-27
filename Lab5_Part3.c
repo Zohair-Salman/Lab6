@@ -33,6 +33,6 @@ int main()
 {
     printf("%c: %d\n", 'a' + i, letterCount[i]);
 }
-  printf("yes");
+  
   return 0;
 }
